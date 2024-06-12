@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(237, 246, 154);
+  background-image: url(./images/mainjs.png);
+  background-size: cover;
+}
+.banner_principal {
+  background-color: aqua;
+}
